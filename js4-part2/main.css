@@ -1,0 +1,10 @@
+
+.container {
+	width: 800px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+h2 {
+	display: inline-block;
+}
